@@ -1,2 +1,2 @@
-# Neural-Network
-Neural Network homework
+# Neural-Networks
+Neural Networks homework
