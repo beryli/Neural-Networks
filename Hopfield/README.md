@@ -1,5 +1,7 @@
 # Hopfield network
 
+A practice for the hopfield network.
+
 <p align="center">
-  <img src="" width="600">
+  <img src="https://i.imgur.com/VoOImyE.png" width="600" alt="preview">
 </p>
