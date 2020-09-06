@@ -1,4 +1,4 @@
-## Hopfield network
+# Hopfield network
 
 A practice for the hopfield network.
 
@@ -6,7 +6,7 @@ A practice for the hopfield network.
   <img src="https://i.imgur.com/VoOImyE.png" width="600" alt="preview">
 </p>
 
-### Results
+## Results
 
 <p align="center">
   <img src="https://i.imgur.com/z4WU4w8.png" width="400" alt="result1">
