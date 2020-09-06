@@ -1,3 +1,3 @@
 # Hopfield network
+<img src="https://imgur.com/WVOZseB">
 
-https://imgur.com/WVOZseB
